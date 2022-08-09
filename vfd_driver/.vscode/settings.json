@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "dio_driver.h": "c",
+        "i2c_driver.h": "c"
+    }
+}
